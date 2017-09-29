@@ -1,0 +1,3 @@
+attrs==17.2.0
+python-telegram-bot==8.0
+requests==2.18.4

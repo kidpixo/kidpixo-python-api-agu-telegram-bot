@@ -1,0 +1,5 @@
+hello - basic bot description
+help - get help on commands
+meetings - get the list of available meetings
+search - search in abstracts title in the latest meeting, see help
+dtoken - (debug) ask for access token and shows it
