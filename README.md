@@ -1,5 +1,6 @@
 # Introduction
 
+I cannot meet the AGU Open API contest deadline, so I'm giving all this to the comunity for free. Have fun!
 
 This is a simple telegram bot to access [AGU API](https://api.developer.agu.org:8443/swagger-ui.html).
 
